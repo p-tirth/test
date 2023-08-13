@@ -1,0 +1,3 @@
+Name: Patel tirth 
+Skills: HTML, CSS, JS, Next.js
+Email: pateltirth.tech@gmail.com
